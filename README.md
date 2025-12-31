@@ -1,7 +1,7 @@
 # PKU-JND: A Large-Scale JND Modeling Dataset and A Baseline for Point Cloud Compression
 
 
-![The image of JND](data-3.png) 
+![The image of JND](image/data-3.png) 
 
 
 #### We appreciate any useful suggestions for improvement of this paper from peers. Please raise issues or send an email to **liangxie@stu.pku.edu.cn**. Thanks for your cooperation!
